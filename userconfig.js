@@ -71,7 +71,7 @@ const default_configuration = {
             },
             {
               name: "kwai",
-              url: "https://www.instagram.com/animeme_tv/",
+              url: "https://www.kuaishou.com/",
               icon: "video",
               icon_color: palette.peach,
             },
